@@ -34,7 +34,7 @@ body {
 }
 
 .main-nav .main-menu {
-  align-items: left;
+
   display: flex;
   list-style-type: none;
   margin-left: 20px;
@@ -264,5 +264,14 @@ body {
 
 .links li {
   line-height: 2.8;
+}
+
+.links ul {
   list-style: none;
+}
+
+.links a {
+  color: #616161;
+  text-decoration: none;
+
 }
